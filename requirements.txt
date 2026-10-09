@@ -1,1 +1,7 @@
 numpy 
+python
+matplotlib
+pandas
+fastapi
+uvicorn
+pytest
