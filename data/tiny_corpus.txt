@@ -1,0 +1,11 @@
+
+Transformers learn patterns from sequences.
+Attention helps language models understand context.
+A language model predicts the next token.
+Self attention connects information across tokens.
+Neural networks learn by adjusting their parameters.
+Training reduces prediction error over many examples.
+The query finds relevant keys and retrieves values.
+Positional embeddings represent token positions.
+Multi head attention learns different relationships.
+Machine learning models discover patterns in data.
