@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .envcheckpoints/
+
+# Trained model checkpoints
+checkpoints/
+
+# Trained model checkpoints
+checkpoints/
